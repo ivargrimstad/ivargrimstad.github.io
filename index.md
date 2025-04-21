@@ -10,3 +10,5 @@
 - [Threads](https://www.threads.net/@ivargrimstad_official)
 - [ X ](https://x.com/ivar_grimstad)
 - [Blog](https://blogs.eclipse.org/blogs/ivar-grimstad)
+
+<img src="/img/jc-program-logo.png" height="100">
