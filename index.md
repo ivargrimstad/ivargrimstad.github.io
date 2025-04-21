@@ -1,5 +1,5 @@
 [*Jakarta EE Developer Advocate*](https://jakarta.ee/community/developer-advocate/) \
-[*Eclipse Foundation*](https://www.eclipse.org)
+[**Eclipse Foundation**](https://www.eclipse.org)
 
 [agilejava.eu](https://agilejava.eu)
 
