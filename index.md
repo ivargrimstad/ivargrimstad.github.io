@@ -1,6 +1,8 @@
 [*Jakarta EE Developer Advocate*](https://jakarta.ee/community/developer-advocate/) \
 [**Eclipse Foundation**](https://www.eclipse.org)
 
+<a href="https://theguywiththeduketattoo.com"><img src="/img/ivar_jc_1000_1000.jpg" height="200"></a>
+
 [agilejava.eu](https://agilejava.eu)
 
 - [Bluesky](https://bsky.app/profile/theguywiththeduketattoo.com)
